@@ -1,0 +1,5 @@
+openai
+python-telegram-bot
+pillow
+python-dotenv
+ruff
